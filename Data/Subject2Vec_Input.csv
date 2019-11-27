@@ -1,0 +1,11 @@
+sid,nifty,segmentation-nifty
+12918T,Images/12918T/Phase-1/RAW/12918T_INSP_STD_FAL_COPD.nii.gz,Images/12918T/Phase-1/Isotropic/12918T_INSP_STD_FAL_COPD_partialLungLabelMap_BSpline_Iso1.0mm.nii.gz
+15311W,Images/15311W/Phase-1/RAW/15311W_INSP_STD_HVA_COPD.nii.gz,Images/15311W/Phase-1/Isotropic/15311W_INSP_STD_HVA_COPD_partialLungLabelMap_BSpline_Iso1.0mm.nii.gz
+15794Q,Images/15794Q/Phase-1/RAW/15794Q_INSP_STD_TEM_COPD.nii.gz,Images/15794Q/Phase-1/Isotropic/15794Q_INSP_STD_TEM_COPD_partialLungLabelMap_BSpline_Iso1.0mm.nii.gz
+24095R,Images/24095R/Phase-1/RAW/24095R_INSP_STD_DUK_COPD.nii.gz,Images/24095R/Phase-1/Isotropic/24095R_INSP_STD_DUK_COPD_partialLungLabelMap_BSpline_Iso1.0mm.nii.gz
+19061T,Images/19061T/Phase-1/RAW/19061T_INSP_STD_UIA_COPD.nii.gz,Images/19061T/Phase-1/Isotropic/19061T_INSP_STD_UIA_COPD_partialLungLabelMap_BSpline_Iso1.0mm.nii.gz
+18055T,Images/18055T/Phase-1/RAW/18055T_INSP_STD_TEM_COPD.nii.gz,Images/18055T/Phase-1/Isotropic/18055T_INSP_STD_TEM_COPD_partialLungLabelMap_BSpline_Iso1.0mm.nii.gz
+14881G,Images/14881G/Phase-1/RAW/14881G_INSP_STD_NJC_COPD.nii.gz,Images/14881G/Phase-1/Isotropic/14881G_INSP_STD_NJC_COPD_partialLungLabelMap_BSpline_Iso1.0mm.nii.gz
+12882Y,Images/12882Y/Phase-1/RAW/12882Y_INSP_STD_FAL_COPD.nii.gz,Images/12882Y/Phase-1/Isotropic/12882Y_INSP_STD_FAL_COPD_partialLungLabelMap_BSpline_Iso1.0mm.nii.gz
+12878H,Images/12878H/Phase-1/RAW/12878H_INSP_STD_FAL_COPD.nii.gz,Images/12878H/Phase-1/Isotropic/12878H_INSP_STD_FAL_COPD_partialLungLabelMap_BSpline_Iso1.0mm.nii.gz
+11814C,Images/11814C/Phase-1/RAW/11814C_INSP_STD_COL_COPD.nii.gz,Images/11814C/Phase-1/Isotropic/11814C_INSP_STD_COL_COPD_partialLungLabelMap_BSpline_Iso1.0mm.nii.gz
